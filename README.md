@@ -27,10 +27,6 @@ La méthode a été testée sur 2 images :
 
 Les données d'image ont été extraites de l'article pour une comparaison approximative des résultats. D'autres images peuvent également être utilisées pour les tests (voir Images.zip).
 
-Résultat:
-
-<img width="964" alt="jarray reverse exampl" src="https://git.unistra.fr/esultanov/ultimate-opening/-/blob/master/output.png">
-
 ## Dependencies
 
 * numpy
