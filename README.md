@@ -27,9 +27,15 @@ La méthode a été testée sur 2 images :
 
 Les données d'image ont été extraites de l'article pour une comparaison approximative des résultats. D'autres images peuvent également être utilisées pour les tests (voir Images.zip).
 
-Résultat:
+Pour voir le résultat exemplaire, ouvrez le fichier UltimateOpening.ipnb et faites descendre jusqu'en bas.
 
-<img width="964" alt="jarray reverse exampl" src="https://github.com/OOps717/Path-tracing-Monte-Carlo/blob/master/Images/Screenshot%20from%202022-01-03%2011-20-08.png">
+## Dependencies
+
+* numpy
+* matplotlib, matplotlib.pyplot
+* skimage
+* networkx
+* copy
 
 ## Utilisation
 
