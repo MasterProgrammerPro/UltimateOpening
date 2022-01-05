@@ -40,3 +40,10 @@ Pour voir le résultat exemplaire, ouvrez le fichier UltimateOpening.ipnb et fai
 ## Utilisation
 
 Pour tester la méthode, changez le chemin vers l'image dans la ligne de code ``` img = io.imread('./opening_test.png', as_gray = True) * 255 ```
+
+
+## :busts_in_silhouette: Meta
+
+Emin Sultanov - emin.sultanov@etu.unistra.fr
+Mustafa Senol - mustafa.senol@etu.unistra.fr
+
