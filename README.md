@@ -29,7 +29,15 @@ Les données d'image ont été extraites de l'article pour une comparaison appro
 
 Résultat:
 
-<img width="964" alt="jarray reverse exampl" src="https://github.com/OOps717/Path-tracing-Monte-Carlo/blob/master/Images/Screenshot%20from%202022-01-03%2011-20-08.png">
+<img width="964" alt="jarray reverse exampl" src="https://git.unistra.fr/esultanov/ultimate-opening/-/blob/master/output.png">
+
+## Dependencies
+
+* numpy
+* matplotlib, matplotlib.pyplot
+* skimage
+* networkx
+* copy
 
 ## Utilisation
 
