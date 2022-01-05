@@ -25,7 +25,9 @@ La méthode a été testée sur 2 images :
 * Une photographie en noir et blanc avec différents petits détails présentant un grand contraste entre eux (drapeau, lettres, etc.)
 * Image créée, avec des éléments de base
 
-Les données d'image ont été extraites de l'article pour une comparaison approximative des résultats. D'autres images peuvent également être utilisées pour les tests
+Les données d'image ont été extraites de l'article pour une comparaison approximative des résultats. D'autres images peuvent également être utilisées pour les tests (voir Images.zip).
+
+Résultat:
 
 <img width="964" alt="jarray reverse exampl" src="https://github.com/OOps717/Path-tracing-Monte-Carlo/blob/master/Images/Screenshot%20from%202022-01-03%2011-20-08.png">
 
