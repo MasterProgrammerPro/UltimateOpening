@@ -5,13 +5,15 @@ Projet de mise en œuvre d'un opérateur d'ouverture finale à l'aide de Maxtree
 Une description détaillée de la mise en œuvre de la méthode est disponible sur ce lien : 
 https://people.cmm.minesparis.psl.eu/users/marcoteg/cv/publi_pdf/jonathan/fabrizio_marcotegui_ismm09_published.pdf
 
-## Max-tree
+## Implementation 
+
+### Max-tree
 
 L'article décrit une façon d'implémenter l'algorithme Max-tree, qui est plus rapide que la version originale. Dans notre cas, nous avons utilisé l'implémentation de cet algorithme dans la bibliothèque scikit-image, car l'idée principale concernait plutôt l'implémentation de l'ouverture ultime. De cette façon, nous avons accéléré le processus de travail sur le projet.
 
 Lien vers l'implémentation max-tree utilisée: https://scikit-image.org/docs/dev/auto_examples/developers/plot_max_tree.html
 
-## Ultimate Opening
+### Ultimate Opening
 
 Ultimate Opening est un opérateur qui accentue les zones les plus contrastées d'une image sans avoir besoin de paramètres.
 
@@ -45,5 +47,6 @@ Pour tester la méthode, changez le chemin vers l'image dans la ligne de code ``
 ## :busts_in_silhouette: Meta
 
 Emin Sultanov - emin.sultanov@etu.unistra.fr
+
 Mustafa Senol - mustafa.senol@etu.unistra.fr
 
